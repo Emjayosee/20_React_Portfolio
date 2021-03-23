@@ -12,7 +12,7 @@ function Page(){
 
 <div class="text">
 
-  <p>I am a Chartered Public Accountant by training and have spent 40 years working with and for various Canadian
+  <p>I am a Chartered Professional Accountant by training and have spent 40 years working with and for various Canadian
     multinationals in Vancouver, Toronto, Montreal and London UK; mostly in the field of taxation. I retired from
     corporate life in 2020 and have been learning new skills to finish up a number of ideas and projects I have in
     mind. I signed up for the U of T Bootcamp to develop skills in javascript so that I can add more functionality
