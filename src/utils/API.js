@@ -4,7 +4,7 @@ import axios from "axios";
 export default {
   fetchUsers: function() {
     return axios
-      .get("https://api.github.com/orgs/github/public_members")
+      .get("https://dog.ceo/api/breeds/image/random")
       .then(res => {
         const users = res.data;
         return users.map(user => {

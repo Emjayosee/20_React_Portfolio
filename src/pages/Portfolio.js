@@ -3,7 +3,7 @@ import API from "../utils/API";
 import CardContainer from "../components/CardContainer";
 import Row from "../components/Row";
 
-function Gallery() {
+function Portfolio() {
   const [user, setUser] = useState({});
   const [users, setUsers] = useState([]);
   const [userIndex, setUserIndex] = useState(0);
@@ -54,8 +54,9 @@ function Gallery() {
 
   return (
     <div>
-      <h1 className="text-center">Welcome to LinkedUp</h1>
-      <p className="text-center h3">Click on the arrows to browse users</p>
+      <h1 className="text-center">Emjayo'see Portfolio</h1>
+      <h2> CAROUSEL TO BE REPLACED WITH JSON FILE OF EMJAYOSEE PORTFOLIO</h2>
+      <p className="text-center h3">Click on the right or left arrows to browse through my portfolio</p>
       <Row>
         <CardContainer
           title={user.login}
@@ -68,4 +69,4 @@ function Gallery() {
   );
 }
 
-export default Gallery;
+export default Portfolio;
