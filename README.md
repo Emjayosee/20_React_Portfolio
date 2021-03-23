@@ -12,33 +12,40 @@ Submitted: March xx, 2021, Michael O'Connor, 604 765-6061
 
 # 02 Approach:
 
-    In approaching this project,  
+    In approaching the project, I realized that I have sufficient content, but am building my portfolio around my professional art work, websites and professional writing.  However, with this in mind, I still am working towards the requirements of the assignment, including:
 
-    I followed the following plan design:
+        1. An updated portfolio featuring 6 total projects [ ]
 
-            Goal:
+        2. Built using using React [ ]
 
-            Review the existing Portfolio and see what it should look like. 
+        3. A `Header` component that appears on multiple pages [ ]
 
-            Design:
+        4. A single `Project` component that will be used multiple times on a single page [ ]
 
-            [X]	 
-        
-            
-            Here is the basic logic flow :
+        5. Navigation with React Router, dynamic rendering, or another third part router [ ]
 
-            [X] 
+        6. A `Footer` component that appears on multiple pages
+
+        7. Update GitHub profile with pinned repositories featuring those same projects
+
+        8. Deploy this site to Heroku [ ]
 
 
-            Build:
+    Your updated site should still have all of the content it previously had:
 
-            •	Set up a REACT environment fof the files and create some files to enable the file to render [X]
-            
-            JS: 
+        9. Your name [ ]
 
-            CSS:
-                
-            
+        10. Links to your GitHub profile & LinkedIn page as well as your email address and phone number [ ]
+
+        11. A link to a PDF of your resume with updated projects [ ]
+
+        12. A list of projects. For each project, make sure you have the following:
+
+                - Project title [ ]
+                - Link to the deployed version [ ]
+                - Link to the GitHub repository [ ]
+                - GIF or screenshot of the deployed application [ ]
+
 
 # 03 Testing and Quality Control:
 

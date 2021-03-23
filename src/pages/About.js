@@ -3,13 +3,45 @@ import "./Pages.css"
 function Page(){
     return (
       <div class="container">
-        <div id="pageHeader" class="text-light text-center">
-          <h2>About</h2>
-        </div> 
-        <h1>This is the About Page</h1>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc aliquet diam tortor, id consequat mauris ullamcorper eu. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Pellentesque et dui id justo finibus sollicitudin at et metus. Ut feugiat tellus nec metus commodo, sed suscipit nisi gravida. Duis eget vestibulum quam, ut porttitor sem. Donec sagittis mi sollicitudin turpis semper, et interdum risus lobortis. Vestibulum suscipit nunc non egestas tristique. Proin hendrerit efficitur malesuada. Mauris lorem urna, sodales accumsan quam non, tristique tempor erat. Nullam non sem facilisis, tempus tortor sit amet, volutpat nisl. Ut et turpis non nunc maximus mollis a vitae tortor. Pellentesque mattis risus ac quam laoreet cursus. Praesent suscipit orci neque, vestibulum tincidunt augue tincidunt non. Duis consequat mattis tortor vitae mattis.</p>
-        <p>Phasellus at rutrum nisl. Praesent sed massa ut ipsum bibendum porttitor. Sed malesuada molestie velit ac viverra. Quisque a ullamcorper purus. Curabitur luctus mi ac mi hendrerit semper. Nulla tincidunt accumsan lobortis. Mauris convallis sapien non nibh porta accumsan. Nunc volutpat tempus porttitor. Nunc congue dictum egestas. Aliquam blandit mi eu urna scelerisque, vitae volutpat ligula ultricies. Maecenas vel porta augue. Fusce mauris ex, dignissim et lacinia ut, tempus eget nibh.</p>
-        <p>Etiam ut massa efficitur, gravida sapien non, condimentum sapien. Suspendisse massa tortor, facilisis in neque sit amet, scelerisque elementum tortor. Nullam eget nibh sit amet odio lobortis ullamcorper. Nulla bibendum magna nec sem pulvinar lobortis. Mauris et imperdiet urna, vitae lobortis dui. Nunc elementum elit mi, non mattis enim congue at. Proin mi lectus, ullamcorper id hendrerit eu, ultricies vitae lacus. Nunc vehicula, erat eget laoreet condimentum, felis ante malesuada leo, nec efficitur diam nisi eget nisi. Cras arcu lacus, tristique in bibendum vitae, elementum eget lorem. Maecenas vestibulum volutpat orci eu pharetra. Praesent vel blandit ante, nec faucibus libero. Sed ultrices lorem ex, eu facilisis libero convallis ac. Vivamus id dapibus eros. Nullam tempor sem rhoncus porta semper. Proin bibendum vulputate nisl, fringilla interdum elit pulvinar eu. Quisque vitae quam dapibus, vestibulum mauris quis, laoreet massa.</p>
+        <div id="pageHeader" >
+        <br></br>
+        <h1>About Me</h1>
+
+{/* <img id="profilePic" alt="IMG.9798.png" src="Assets/Images/IMG_9798.png" onclick="location.href=`https://www.linkedin.com/in/michael-j-o-connor-cpa-ca-1063773b/`" target="blank"`> */}
+
+
+<div class="text">
+
+  <p>I am a Chartered Public Accountant by training and have spent 40 years working with and for various Canadian
+    multinationals in Vancouver, Toronto, Montreal and London UK; mostly in the field of taxation. I retired from
+    corporate life in 2020 and have been learning new skills to finish up a number of ideas and projects I have in
+    mind. I signed up for the U of T Bootcamp to develop skills in javascript so that I can add more functionality
+    to tax related sites that I developed in my spare time. Through work, I have travelled extensively and visited many
+    parts of Canada and other countries, including the US, Australia, China, Hong Kong, Singapore, Spain, Italy,
+    France, the UK, Ireland, Germany, South Africa, Luxembourg, Switzerland and Brazil. Once the course has been completed
+    and the Covid-19 Pandemic is under control, I hope to travel again with my wife, Michaeleen as we visit new places
+    and friends around the world.</p>
+
+</div>
+<section id="contact-info" >
+  <h2>Contact Info:</h2>
+  <div class="list">
+  <ul >
+    
+    <li class="List"><strong>Email: </strong><a
+        href="mailto:Michael.j.oconnor@gaarmageddon.com">Michael.j.oconnor@gaarmageddon.com</a></li>
+    <li class="List"><strong>LinkedIn: </strong><a
+          href="https://www.linkedin.com/in/michael-j-o-connor-cpa-ca-1063773b/" target="blank">Michael J. O'Connor, CPA, CA</a></li>  
+    <li class="List"><strong>GitHub: </strong><a
+            href="https://github.com/Emjayosee" target="blank">Emjayosee</a></li>
+    <li class="List"><strong>Phone: </strong>647 398 0854</li>
+    <li class="List"><strong>ZOOM: </strong>494 292 9313</li>
+    <li class="List"><strong>CV (See Attached): </strong><a class="PDF" href="Assets/Michael J O'Connor CV (Emjayo'see).pdf">PDF</a></li>
+
+  </ul>
+  </div>
+</section>
+      </div>
       </div>
     )
 }

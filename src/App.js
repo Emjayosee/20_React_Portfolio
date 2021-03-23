@@ -1,29 +1,38 @@
 import React from "react";
 import Footer from "./components/Footer";
-// import { useState } from "react";
 import { BrowserRouter as Router, Route, NavLink } from "react-router-dom";
 import AboutPage from "./pages/About";
-import PortfolioPage from "./pages/Portfolio";
-import ContactPage from "./pages/Contact";
+import CodingPage from "./pages/Coding";
+import GAARTPage from "./pages/GAART";
+import MjocPage from "./pages/Weblinks";
+import GTMPage from "./pages/GAAR_THE_MUSICAL";
 import PublicationsPage from "./pages/Publications";
+import './index.css'
+
 
 function Header(){
   return (
-  <nav className="navbar navbar-expand-lg navbar-light bg-light">
-      <NavLink className="navbar-brand" to="/">Michael J. O'Connor</NavLink>
+  <nav className="navbar navbar-expand-lg navbar-light bg-gray">
+      <NavLink className="navbar-brand"  activeStyle={{ color: 'white' }} to="/">Michael J. O'Connor, CA, CPA (Artist, Fiscal Pundit, Tax Activist and now Coder)</NavLink>
       <div>
         <ul className="navbar-nav">
+          {/* <li className="nav-item">
+            <NavLink to="/" className="nav-link" activeClassName="active" activeStyle={{ color: 'red' }} color="grey">About</NavLink>
+          </li> */}
           <li className="nav-item">
-            <NavLink to="/" className="nav-link" activeClassName="active">About</NavLink>
+            <NavLink to="/coding" className="nav-link" activeClassName="active" activeStyle={{ color: 'yellow' }} color="green">Coding</NavLink>
           </li>
           <li className="nav-item">
-            <NavLink to="/portfolio" className="nav-link" activeClassName="active">Portfolio</NavLink>
+            <NavLink to="/publications" className="nav-link" activeClassName="active" activeStyle={{ color: 'yellow' }}>Publications</NavLink>
           </li>
           <li className="nav-item">
-            <NavLink to="/publications" className="nav-link" activeClassName="active">Publications</NavLink>
+            <NavLink to="/GAART" className="nav-link" activeClassName="active" activeStyle={{ color: 'yellow' }} >GAART</NavLink>
           </li>
           <li className="nav-item">
-            <NavLink to="/contact" className="nav-link" activeClassName="active">Contact</NavLink>
+            <NavLink to="/weblinks" className="nav-link" activeClassName="active" activeStyle={{ color: 'yellow' }} >MjocWebsites</NavLink>
+          </li>
+          <li className="nav-item">
+            <NavLink to="/gtm" className="nav-link" activeClassName="active" activeStyle={{ color: 'yellow' }} >GAAR:The Musical</NavLink>
           </li>
         </ul>
       </div>
@@ -39,9 +48,11 @@ function App() {
       <Router> 
         <Header />
         <Route exact path={["/","/about"]} component={AboutPage} />
-        <Route exact path="/portfolio" component={PortfolioPage} />
+        <Route exact path="/coding" component={CodingPage} />
         <Route exact path="/publications" component={PublicationsPage} />
-        <Route exact path="/contact" component={ContactPage} />
+        <Route exact path="/gaart" component={GAARTPage} />
+        <Route exact path="/weblinks" component={MjocPage} />
+        <Route exact path="/gtm" component={GTMPage} />
       </Router>
       <Footer />
     </>
