@@ -5,7 +5,6 @@ import AboutPage from "./pages/About";
 import CodingPage from "./pages/Coding";
 import GAARTPage from "./pages/GAART";
 import MjocPage from "./pages/Weblinks";
-import GTMPage from "./pages/GAAR_THE_MUSICAL";
 import PublicationsPage from "./pages/Publications";
 import ContactPage from "./pages/Contact";
 import './index.css'
@@ -33,9 +32,6 @@ function Header(){
             <NavLink to="/weblinks" className="nav-link" activeClassName="active" activeStyle={{ color: 'yellow' }} >MjocWebsites</NavLink>
           </li>
           <li className="nav-item">
-            <NavLink to="/gtm" className="nav-link" activeClassName="active" activeStyle={{ color: 'yellow' }} >GAAR:The Musical</NavLink>
-          </li>
-          <li className="nav-item">
             <NavLink to="/contact" className="nav-link" activeClassName="active" activeStyle={{ color: 'yellow' }} >Contact</NavLink>
           </li>
         </ul>
@@ -56,7 +52,6 @@ function App() {
         <Route exact path="/publications" component={PublicationsPage} />
         <Route exact path="/gaart" component={GAARTPage} />
         <Route exact path="/weblinks" component={MjocPage} />
-        <Route exact path="/gtm" component={GTMPage} />
         <Route exact path="/contact" component={ContactPage} />
       </Router>
       <Footer />

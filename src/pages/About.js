@@ -9,9 +9,7 @@ function Page() {
         <br></br>
         <h1>About Me</h1>
 
-
-    
-        {/* <img src={require("./components/Images/IMG_9798.jpg")} /> */}
+        <img id="profilePic" alt="IMG.9798.png" src={"/Assets/Images/IMG_9798.jpg"}/>
     
         
 
@@ -26,7 +24,7 @@ function Page() {
             France, the UK, Ireland, Germany, South Africa, Luxembourg, Switzerland and Brazil. Once the course has been completed
             and the Covid-19 Pandemic is under control, I hope to travel again with my wife, Michaeleen as we visit new places
             and friends around the world.</p>
-
+<br></br>
           </div>
           <section id="contact-info" >
             <h2>Contact Info:</h2>
@@ -34,17 +32,17 @@ function Page() {
               <ul >
 
                 <li class="List"><strong>Email: </strong><a
-                  href="mailto:Michael.j.oconnor@gaarmageddon.com">Michael.j.oconnor@gaarmageddon.com</a></li>
+                  href="mailto:Michael.j.oconnor@gaarmageddon.com">Michael.j.oconnor@me.com</a></li>
                 <li class="List"><strong>LinkedIn: </strong><a
                   href="https://www.linkedin.com/in/michael-j-o-connor-cpa-ca-1063773b/" target="blank">Michael J. O'Connor, CPA, CA</a></li>
                 <li class="List"><strong>GitHub: </strong><a
                   href="https://github.com/Emjayosee" target="blank">Emjayosee</a></li>
                 <li class="List"><strong>Phone: </strong>647 398 0854</li>
                 <li class="List"><strong>ZOOM: </strong>494 292 9313</li>
-                <li class="List"><strong>CV (See Attached): </strong><a class="PDF" href="Assets/Michael J O'Connor CV (Emjayo'see).pdf">PDF</a></li>
+                <li class="List"><strong>CV (See Attached): </strong><a class="PDF" href="/Assets/Images/MjocResume.pdf" target="blank">PDF</a></li>
 
               </ul>
-
+            <br></br>
             </div>
           </section>
       </div>

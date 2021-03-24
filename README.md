@@ -14,13 +14,13 @@ Submitted: March xx, 2021, Michael O'Connor, 604 765-6061
 
     In approaching the project, I realized that I have sufficient content, but am building my portfolio around my professional art work, websites, professional writing and future projects.  However, with this in mind, I still am working towards meeting the requirements of the assignment, including:
 
-        1. An updated portfolio featuring 6 total projects [ ]
+        1. An updated portfolio featuring 6 total projects [X]
 
         2. Built using using React [X]
 
         3. A `Header` component that appears on multiple pages [X]
 
-        4. A single `Project` component that will be used multiple times on a single page [ ]
+        4. A single `Project` component that will be used multiple times on a single page [X]
 
         5. Navigation with React Router, dynamic rendering, or another third part router [X]
 
@@ -37,14 +37,14 @@ Submitted: March xx, 2021, Michael O'Connor, 604 765-6061
 
         10. Links to your GitHub profile & LinkedIn page as well as your email address and phone number [X]
 
-        11. A link to a PDF of your resume with updated projects [ ]
+        11. A link to a PDF of your resume with updated projects [X]
 
         12. A list of projects. For each project, make sure you have the following:
 
-                - Project title [ ]
-                - Link to the deployed version [ ]
-                - Link to the GitHub repository [ ]
-                - GIF or screenshot of the deployed application [ ]
+                - Project title [X]
+                - Link to the deployed version [X]
+                - Link to the GitHub repository [X]
+                - GIF or screenshot of the deployed application [X]
 
 
 # 03 Testing and Quality Control:
@@ -76,9 +76,7 @@ The following items should be considered for future enhancements, time and budge
 
     2. Consider adding a "captcha" page to user emails from users to linit spam.
 
-    3. 
-
 # 06 Current Renderings:
 
 See Current Rendering at the time of writing in the Assignment19 Repo. 
-![alt text](TBD)
+![alt text](./public/Assets/Images/Rendering_REACT_Portfolio.jpg)

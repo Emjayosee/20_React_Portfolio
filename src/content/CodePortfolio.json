@@ -2,7 +2,7 @@
 
 {
     "name": "DreamKitchen", 
-    "image": "/components/Images/DreamKitchen.png", 
+    "image": "/Assets/Images/DreamKitchen.png",
     "link": "https://dreamkitchentoronto.herokuapp.com", 
     "sidebar":"I worked as part of a team to develop the DreamKitchen website, which bridges restaurants and recipes.  The project allowed me to work on a team developing a full stack website, including a SQL database deployed through Heroku.com.",
     "github": "https://github.com/Emjayosee/Restaurant-Search",
@@ -11,7 +11,7 @@
 
 {
     "name": "ArtMapper", 
-    "image": "Assets/Images/ArtMapper.jpg", 
+    "image": "/Assets/Images/ArtMapper.jpg", 
     "link": "https://richo1213.github.io/project-1/index.html", 
     "sidebar": "I worked as part of a team to develop the ArtMapper website, which involves use of APIs.  The project also allowed us the chance to work on a team and develop good teaming practices, as well documentation and project management skills.",
     "github": "https://github.com/Emjayosee/P1_Art_Mapper",
@@ -20,15 +20,15 @@
 
 {
     "name": "Project 3", 
-    "image": "Assets/Images/ComingSoon.png", 
+    "image": "/Assets/Images/ComingSoon.png", 
     "link": "TBD", 
     "sidebar": "This project will be available in April, 2021.",
     "github": "",
-    "gitname": ""
+    "gitname": "TBD"
 },
 {
     "name": "Mjoc's Weather Dashboard", 
-    "image": "Assets/Images/Rendering.png", 
+    "image": "/Assets/Images/Rendering.png", 
     "link": "https://emjayosee.github.io/6_Weather_Dashboard/", 
     "sidebar": "Working independently, I was able to put together a Weather Dashboard, that I can use to check the weather in over 200 cities around the world, as well as giving me skills in accessing APIs and working with site specific protocols.",
     "github": "https://github.com/Emjayosee/6_Weather_Dashboard",
@@ -36,18 +36,18 @@
 },
 {
     "name": "Mjoc's Password Generator", 
-    "image": "Assets/Images/Rendering_with_Data_Choices.png", 
+    "image": "/Assets/Images/Rendering_with_Data_Choices.png", 
     "link": "https://emjayosee.github.io/3_Password_Generator/", 
     "sidebar": "I also built a useful password generator. That was an early effort in the use of JAVAScript.",
-    "github": "https://emjayosee.github.io/3_Password_Generator/",
+    "github": "https://github.com/Emjayosee/3_Password_Generator",
     "gitname": "3_Password_Generator"
 },
 {
     "name": "CodeQuiz", 
-    "image": "Assets/Images/CodeQuiz.png", 
+    "image": "/Assets/Images/CodeQuiz.png", 
     "link": "https://emjayosee.github.io/4_Code_Quiz/", 
     "sidebar": "This assignment required us to build an interactive game quiz that was time limited.",
-    "github": "https://emjayosee.github.io/4_Code_Quiz/",
+    "github": "https://github.com/Emjayosee/4_Code_Quiz",
     "gitname": "4_Code_Quiz"
 }
 

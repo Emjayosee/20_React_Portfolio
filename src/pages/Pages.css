@@ -15,10 +15,44 @@ nav.navbar.navbar-default {
   }
 
 .list{
-    padding-left:40px;
+    padding-left:50px;
 }
   
 .navbar{
     background-color: green;
     color:white;
+}
+
+.title {
+    padding-left: 20px;
+    font-size: 30px;
+    list-style-type: none;
+}
+
+.hideBullet{
+    list-style-type: none;
+}
+
+.box{
+    border-color: black;
+    border-style: double;
+    margin-left: 20px;
+
+}
+
+.frame{
+    border-color: navy;
+    border-style:solid;
+    max-width: 305px;;
+}
+
+#profilePic { 
+    border: 5px solid Navy;
+    float: left;
+    padding: 0px;
+    margin-left: 20px;
+    margin-right:10px;
+    /* margin: 27px; */
+    margin-bottom: 10px;
+    height: 200px;
 }
