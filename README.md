@@ -16,26 +16,26 @@ Submitted: March xx, 2021, Michael O'Connor, 604 765-6061
 
         1. An updated portfolio featuring 6 total projects [ ]
 
-        2. Built using using React [ ]
+        2. Built using using React [X]
 
-        3. A `Header` component that appears on multiple pages [ ]
+        3. A `Header` component that appears on multiple pages [X]
 
         4. A single `Project` component that will be used multiple times on a single page [ ]
 
-        5. Navigation with React Router, dynamic rendering, or another third part router [ ]
+        5. Navigation with React Router, dynamic rendering, or another third part router [X]
 
-        6. A `Footer` component that appears on multiple pages
+        6. A `Footer` component that appears on multiple pages [X]
 
-        7. Update GitHub profile with pinned repositories featuring those same projects
+        7. Update GitHub profile with pinned repositories featuring those same projects [ ]
 
         8. Deploy this site to Heroku [ ]
 
 
     Your updated site should still have all of the content it previously had:
 
-        9. Your name [ ]
+        9. Your name [X]
 
-        10. Links to your GitHub profile & LinkedIn page as well as your email address and phone number [ ]
+        10. Links to your GitHub profile & LinkedIn page as well as your email address and phone number [X]
 
         11. A link to a PDF of your resume with updated projects [ ]
 
