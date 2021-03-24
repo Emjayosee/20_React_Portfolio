@@ -1,6 +1,6 @@
 # Unit 20 React Homework: React Portfolio
 
-This is the repo for the Employee Directory assignment 19, due March 23, 2021.
+This is the repo for my Portfolio page in REACT, assignment 20, due March 24, 2021.
 
 
 Submitted: March xx, 2021, Michael O'Connor, 604 765-6061
@@ -8,11 +8,11 @@ Submitted: March xx, 2021, Michael O'Connor, 604 765-6061
 # 01 Goal: 
 
     The goal of this project is to convert our portfolio from Assignment 16 into a REACT environment. Here is a link to the Github folder https://emjayosee.github.io/20_React_Portfolio/
-    and a link to the deployed website https://employee-directory-michael.herokuapp.com/.
+    and a link to the deployed website https://mjoc.herokuapp.com//.
 
 # 02 Approach:
 
-    In approaching the project, I realized that I have sufficient content, but am building my portfolio around my professional art work, websites and professional writing.  However, with this in mind, I still am working towards the requirements of the assignment, including:
+    In approaching the project, I realized that I have sufficient content, but am building my portfolio around my professional art work, websites, professional writing and future projects.  However, with this in mind, I still am working towards meeting the requirements of the assignment, including:
 
         1. An updated portfolio featuring 6 total projects [ ]
 
@@ -26,9 +26,9 @@ Submitted: March xx, 2021, Michael O'Connor, 604 765-6061
 
         6. A `Footer` component that appears on multiple pages [X]
 
-        7. Update GitHub profile with pinned repositories featuring those same projects [ ]
+        7. Update GitHub profile with pinned repositories featuring those same projects [X]
 
-        8. Deploy this site to Heroku [ ]
+        8. Deploy this site to Heroku [X]
 
 
     Your updated site should still have all of the content it previously had:
@@ -53,22 +53,30 @@ Submitted: March xx, 2021, Michael O'Connor, 604 765-6061
 
     2. Format JSX Code to make it easier to follow when viewed at source.
 
-    3. Load the files and tested the page functionality at GITHUB.
-
-    4. Run NPM Build to ensure proper compling.
+    3. Load the files and tested the page functionality at HEROKU.
 
 
 # 04 Lessons Learned:
 
 The following lessons learned:
 
-    1. 
+    1. How to constuct files and pages in React.
+
+    2. How to use modular capabilities of REACT to make website more efficient.
+
+    3. Debugging code.
+
+    4. Use of respources on the web for assistance.
 
 # 05 Further improvements to make:
 
 The following items should be considered for future enhancements, time and budget permitting:
 
-    1. 
+    1. Video or animation as part of a modal or other user event.
+
+    2. Consider adding a "captcha" page to user emails from users to linit spam.
+
+    3. 
 
 # 06 Current Renderings:
 

@@ -48,7 +48,7 @@ class Contact extends Component {
   
             <br></br>
 
-          <p>Email me directly at <a href="mailto:michael.j.oconnor@gaarmageddon.com" target="_blank" rel="noreferrer"><strong>michael.j.oconnor@gaarmageddon.com</strong></a></p>
+          <p>or Email me directly at <a href="mailto:michael.j.oconnor@me.com" target="_blank" rel="noreferrer"><strong>michael.j.oconnor@me.com</strong></a></p>
   
     
         </div>
