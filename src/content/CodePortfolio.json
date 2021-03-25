@@ -21,9 +21,9 @@
 {
     "name": "Project 3", 
     "image": "/Assets/Images/ComingSoon.png", 
-    "link": "TBD", 
+    "link": "/Assets/Images/ComingSoon.png", 
     "sidebar": "This project will be available in April, 2021.",
-    "github": "",
+    "github": "/Assets/Images/ComingSoon.png",
     "gitname": "TBD"
 },
 {
