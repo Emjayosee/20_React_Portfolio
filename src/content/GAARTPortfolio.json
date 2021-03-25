@@ -10,28 +10,28 @@
         "name": "Go to GAAR", 
         "image": "/Assets/Images/Go_to_GAAR.jpg",
         "size": "30 x 42 inches",
-        "data": "circa 2017, Limited Edition Print, Edition of 14",
+        "data": "circa 2016, Limited Edition Print, Edition of 14",
         "link": "https://www.gaarmageddon.com/fiscal-art/the-board-game-series/"
     },
     {
         "name": "Get out of GAAR Free", 
         "image": "/Assets/Images/Get_out_of_GAAR_Free.jpg",
         "size": "30 x 42 inches",
-        "data": "circa 2017, Limited Edition Print, Edition of 15",
+        "data": "circa 2016, Limited Edition Print, Edition of 15",
         "link": "https://www.gaarmageddon.com/fiscal-art/the-board-game-series/"
     },
     {
         "name": "Les Huit Coins de la GAAR (GAARRÊT)", 
         "image": "/Assets/Images/GAARRET.jpg",
         "size": "22 x 30 inches",
-        "data": "circa 2020, Limited Edition Print, Edition of 20",
+        "data": "circa 2018, Limited Edition Print, Edition of 20",
         "link": "https://www.gaarmageddon.com/fiscal-art/les-huit-coins-de-la-gaar-the-eight-corners-of-the-gaar/"
     },
     {
         "name": "Tax Inequality", 
         "image": "/Assets/Images/Tax_Inequality.jpg",
         "size": "22 x 30 inches",
-        "data": "circa 2018, Limited Edition Print, Edition of 15",
+        "data": "circa 2020, Limited Edition Print, Edition of 15",
         "link": "https://www.gaarmageddon.com/fiscal-art/gaar/"
     },
     {
@@ -40,5 +40,33 @@
         "size": "18 x 18 inches",
         "data": "circa 2017, Limited Edition Box Set, including GAARTs, Edition of 350",
         "link": "https://www.gaarmageddon.com/players-edition/"
+    },
+    {
+        "name":  " Mind the GAAR",
+        "image": "/Assets/Images/Mind_the_GAAR.jpeg",
+        "size": "22 x 30 inches",
+        "data": "circa 2018, Limited Edition Print, Edition of 20",
+        "link": "https://www.gaarmageddon.com/fiscal-art/mind-the-gaar/"
+    },
+    {
+        "name":  "Unassumed Facts",
+        "image": "/Assets/Images/UNASSUMED_FACTS.jpeg",
+        "size": "24 x 36 inches",
+        "data": "circa 2017, Digital Print",
+        "link": "https://www.gaarmageddon.com/fiscal-art/unassumed-facts/"
+    },
+    {
+        "name":  "General Anti-Avoidance Rule-ette",
+        "image": "/Assets/Images/GAAR_RULETTE.jpeg",
+        "size": "24 x 36 inches",
+        "data": "circa 2017, Digital Print",
+        "link": "https://www.gaarmageddon.com/fiscal-art/general-anti-avoidance-rule-ette/"
+    },
+    {
+        "name":  "B.E.P.S (Blame Every Politician Somewhere)",
+        "image": "/Assets/Images/BEPS.jpeg",
+        "size": "18 x 18 inches",
+        "data": "circa 2017, Mixed Media and Messages, Unique",
+        "link": "https://www.oecd.org/tax/beps/about/"
     }
 ]

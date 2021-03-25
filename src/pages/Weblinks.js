@@ -27,7 +27,7 @@ function Weblinks(){
                <div className="list">
                <li className="hideBullet frame" ><img src={port.image} /></li>
                <li ><a href={port.link}>Try it here: {port.name}</a></li>
-               <li >{port.sidebar}</li>
+               <li className="text">{port.sidebar}</li>
                <br></br>
                  </div>
                  </div>

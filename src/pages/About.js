@@ -13,7 +13,7 @@ function Page() {
     
         
 
-          <div classname="text">
+          <div className="text">
 
             <p>I am a Chartered Professional Accountant by training and have spent 40 years working with and for various Canadian
             multinationals in Vancouver, Toronto, Montreal and London UK; mostly in the field of taxation. I retired from
