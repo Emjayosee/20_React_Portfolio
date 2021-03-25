@@ -3,7 +3,7 @@
 This is the repo for my Portfolio page in REACT, assignment 20, due March 24, 2021.
 
 
-Submitted: March xx, 2021, Michael O'Connor, 604 765-6061
+Submitted: March 24, 2021, Michael O'Connor, 604 765-6061
 
 # 01 Goal: 
 
@@ -67,6 +67,10 @@ The following lessons learned:
     3. Debugging code.
 
     4. Use of respources on the web for assistance.
+
+    5. That images cannot sit with the compiled code, hence putting them outside in the public folder fixes that.
+
+    6. How very specific naming protocols are.
 
 # 05 Further improvements to make:
 

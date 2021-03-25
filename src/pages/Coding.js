@@ -4,7 +4,7 @@ import portfolio from '../content/CodePortfolio.json'
 
 function Coding(){
   console.log(portfolio[0].name)
-  const [ports,setPortfolio]=useState(portfolio)
+  const [ports]=useState(portfolio)
 console.log(ports)
 
 
@@ -12,7 +12,7 @@ console.log(ports)
     <div class="container" >
       <br></br>
       <div id="pageHeader" >
-        <h1>Here are some of my coding efforts in Q1 2021:</h1>
+        <h1>Here are some of my coding efforts in Q1 2021</h1>
       </div> 
       
         

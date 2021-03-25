@@ -1,0 +1,20 @@
+[
+    {
+        "name": "GAARMAGEDDON.COM", 
+        "image": "/Assets/Images/GAARMAGEDDON.png",
+        "link": "https://www.gaarmageddon.com/", 
+        "sidebar":"I  started this site to begin to catalogue relevant, useful or humorous material on the General Anti-Avoidance Rule, here in Canada and abroad.  It evolved into a scoreboard of GAAR cases, to help risk management measurements of the liklihood of winning a challenge under the GAAR.  It is a home to  fiscal art, including various editions of the GAART Board in the Serigraph “Subject to GAAR…it’s Art”."
+    },
+    {
+        "name": "TRANSFERDICE.COM", 
+        "image": "/Assets/Images/TRANSFERDICE.COM.png",
+        "link": "https://www.transferdice.com/", 
+        "sidebar":"Transfer Dice is a work of art created following a discussion with a fellow tax director on setting transfer prices wihin a multinational.  It evolved into a website that could be used virtually to establish transfer prices and generate contemporaneous documentation. Then I had some actual dice manufactured in China and there are over 800 sets of them rolling around the world, somewhere."
+    },
+    {
+        "name": "WHENIWASYOURAGE.CA", 
+        "image": "/Assets/Images/WHENIWASYOURAGE.png",
+        "link": "https://www.wheniwasyourage.ca/", 
+        "sidebar":"Remember when you were younger and how your parents could describe their heroic efforts in reaching some apogee in life or overcoming some hardship? I developed this website to bring efficiency and clarity to those teaching moments for my sons, nephews and nieces by being a bit more precise in answering the age old question, just when was I their age and what was I doing?"
+    }
+]

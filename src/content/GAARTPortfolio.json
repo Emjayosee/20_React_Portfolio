@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Subject to GAAR it's Art", 
+        "image": "/Assets/Images/Subject_to_GAAR.jpg",
+        "size": "22 x 30 inches",
+        "data": "circa 2015, Limited Edition Print, Edition of 245",
+        "link": "https://www.gaarmageddon.com/special-edition-series-of-245/"
+    },
+    {
+        "name": "Go to GAAR", 
+        "image": "/Assets/Images/Go_to_GAAR.jpg",
+        "size": "30 x 42 inches",
+        "data": "circa 2017, Limited Edition Print, Edition of 14",
+        "link": "https://www.gaarmageddon.com/fiscal-art/the-board-game-series/"
+    },
+    {
+        "name": "Get out of GAAR Free", 
+        "image": "/Assets/Images/Get_out_of_GAAR_free.jpg",
+        "size": "30 x 42 inches",
+        "data": "circa 2017, Limited Edition Print, Edition of 15",
+        "link": "https://www.gaarmageddon.com/fiscal-art/the-board-game-series/"
+    },
+    {
+        "name": "Les Huit Coins de la GAAR (GAARRÊT)", 
+        "image": "/Assets/Images/GAARRET.jpg",
+        "size": "22 x 30 inches",
+        "data": "circa 2020, Limited Edition Print, Edition of 20",
+        "link": "https://www.gaarmageddon.com/fiscal-art/les-huit-coins-de-la-gaar-the-eight-corners-of-the-gaar/"
+    },
+    {
+        "name": "Tax Inequality", 
+        "image": "/Assets/Images/Tax_Inequality.jpg",
+        "size": "22 x 30 inches",
+        "data": "circa 2018, Limited Edition Print, Edition of 15",
+        "link": "https://www.gaarmageddon.com/fiscal-art/gaar/"
+    },
+    {
+        "name": "The GAART Board Player's Edition", 
+        "image": "/Assets/Images/TheGAARTBoard.jpeg",
+        "size": "18 x 18 inches",
+        "data": "circa 2017, Limited Edition Box Set, including GAARTs, Edition of 350",
+        "link": "https://www.gaarmageddon.com/players-edition/"
+    }
+]

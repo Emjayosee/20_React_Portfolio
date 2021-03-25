@@ -15,7 +15,7 @@ nav.navbar.navbar-default {
   }
 
 .list{
-    padding-left:50px;
+    padding-left:60px;
 }
   
 .navbar{
@@ -46,6 +46,11 @@ nav.navbar.navbar-default {
     max-width: 305px;;
 }
 
+.artframe{
+    border-color: navy;
+    border-style:solid;
+    max-width: 405px;;
+}
 #profilePic { 
     border: 5px solid Navy;
     float: left;
@@ -56,3 +61,4 @@ nav.navbar.navbar-default {
     margin-bottom: 10px;
     height: 200px;
 }
+
