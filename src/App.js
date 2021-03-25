@@ -13,7 +13,7 @@ import './index.css'
 function Header(){
   return (
   <nav className="navbar navbar-expand-lg navbar-light bg-gray">
-      <NavLink className="navbar-brand"  activeStyle={{ color: 'white' }} to="/">Michael J. O'Connor, CA, CPA (GAARTist, Fiscal Pundit, Tax Activist and now Coder)</NavLink>
+      <NavLink className="navbar-brand"  activeStyle={{ color: 'white' }} to="/">Michael J. O'Connor, CPA, CA, (GAARTist, Fiscal Pundit, Tax Activist and now Coder)</NavLink>
       <div>
         <ul className="navbar-nav">
           {/* <li className="nav-item">

@@ -3,13 +3,13 @@ import "./Pages.css"
 import portfolio from '../content/CodePortfolio.json'
 
 function Coding(){
-  console.log(portfolio[0].name)
+
   const [ports]=useState(portfolio)
-console.log(ports)
+
 
 
   return (
-    <div class="container" >
+    <div className="container" >
       <br></br>
       <div id="pageHeader" >
         <h1>Here are some of my coding efforts in Q1 2021</h1>
@@ -21,10 +21,10 @@ console.log(ports)
               
                return (
                 
-                 <div class="box">
-               <li class="title" >{port.name}</li>
-               <div class="list">
-               <li class="hideBullet frame" ><img src={port.image} /></li>
+                 <div className="box">
+               <li className="title" >{port.name}</li>
+               <div className="list">
+               <li className="hideBullet frame" ><img src={port.image} /></li>
                <li ><a href={port.link}>Try it here: {port.name}</a></li>
                <li ><a href={port.github}>GITHUB files: {port.gitname}</a></li>
                <li >{port.sidebar}</li>

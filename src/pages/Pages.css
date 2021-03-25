@@ -49,7 +49,7 @@ nav.navbar.navbar-default {
 .artframe{
     border-color: navy;
     border-style:solid;
-    max-width: 405px;;
+    max-width: 305px;;
 }
 #profilePic { 
     border: 5px solid Navy;
@@ -62,3 +62,6 @@ nav.navbar.navbar-default {
     height: 200px;
 }
 
+.text{
+    padding-right: 20px;
+}

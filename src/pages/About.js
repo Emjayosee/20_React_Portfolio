@@ -4,7 +4,7 @@ import "./Pages.css"
 
 function Page() {
   return (
-    <div class="container">
+    <div classname="container">
       <div id="pageHeader">
         <br></br>
         <h1>About Me</h1>
@@ -13,7 +13,7 @@ function Page() {
     
         
 
-          <div class="text">
+          <div classname="text">
 
             <p>I am a Chartered Professional Accountant by training and have spent 40 years working with and for various Canadian
             multinationals in Vancouver, Toronto, Montreal and London UK; mostly in the field of taxation. I retired from
@@ -28,18 +28,18 @@ function Page() {
           </div>
           <section id="contact-info" >
             <h2>Contact Info:</h2>
-            <div class="list">
+            <div className="list">
               <ul >
 
-                <li class="List"><strong>Email: </strong><a
+                <li className="List"><strong>Email: </strong><a
                   href="mailto:Michael.j.oconnor@gaarmageddon.com">Michael.j.oconnor@me.com</a></li>
-                <li class="List"><strong>LinkedIn: </strong><a
+                <li className="List"><strong>LinkedIn: </strong><a
                   href="https://www.linkedin.com/in/michael-j-o-connor-cpa-ca-1063773b/" target="blank">Michael J. O'Connor, CPA, CA</a></li>
-                <li class="List"><strong>GitHub: </strong><a
+                <li className="List"><strong>GitHub: </strong><a
                   href="https://github.com/Emjayosee" target="blank">Emjayosee</a></li>
-                <li class="List"><strong>Phone: </strong>647 398 0854</li>
-                <li class="List"><strong>ZOOM: </strong>494 292 9313</li>
-                <li class="List"><strong>CV (See Attached): </strong><a class="PDF" href="/Assets/Images/MjocResume.pdf" target="blank">PDF</a></li>
+                <li className="List"><strong>Phone: </strong>647 398 0854</li>
+                <li className="List"><strong>ZOOM: </strong>494 292 9313</li>
+                <li className="List"><strong>CV (See Attached): </strong><a classname="PDF" href="/Assets/Images/MjocResume.pdf" target="blank">PDF</a></li>
 
               </ul>
             <br></br>

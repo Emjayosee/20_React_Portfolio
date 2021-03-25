@@ -80,6 +80,8 @@ The following items should be considered for future enhancements, time and budge
 
     2. Consider adding a "captcha" page to user emails from users to linit spam.
 
+    3. Fill the white space on the right sides of images with more text.
+
 # 06 Current Renderings:
 
 See Current Rendering at the time of writing in the Assignment19 Repo. 

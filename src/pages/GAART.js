@@ -3,13 +3,12 @@ import "./Pages.css"
 import portfolio from '../content/GAARTPortfolio.json'
 
 function GAART(){
-  console.log(portfolio[0].name)
+  
   const [ports]=useState(portfolio)
-console.log(ports)
 
 
   return (
-    <div class="container" >
+    <div className="container" >
       <br></br>
       <div id="pageHeader" >
         <h1>GAART</h1>
@@ -22,10 +21,10 @@ console.log(ports)
               
                return (
                 
-                 <div class="box">
-               <li class="title" >{port.name}</li>
-               <div class="list Text">
-               <li class="hideBullet artframe" ><img src={port.image} /></li>
+                 <div className="box">
+               <li className="title" >{port.name}</li>
+               <div className="list Text">
+               <li className="hideBullet artframe" ><img src={port.image} /></li>
                  <li><a href={port.link}>Read more here: {port.name}</a></li>
                <li>Size: {port.size}</li>
                <li>Details: {port.data}</li>
